@@ -1,4 +1,4 @@
-![2025-03-29-20-59-08](https://github.com/user-attachments/assets/b672a713-9cee-4780-a96c-8d52a66579ff)
+![2025-03-30-12-13-58](https://github.com/user-attachments/assets/ba8db41d-c06f-4429-8fe3-05273623a7e0)
 
 # Groot Terminal
 
