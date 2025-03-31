@@ -68,7 +68,6 @@ O projeto utiliza um arquivo `.env` para configurar variáveis de ambiente. Crie
 
 ```dotenv
 API_KEY=sua_chave_de_api
-OUTRA_CONFIG=valor
 ```
 
 ## Contribuição
